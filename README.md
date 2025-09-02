@@ -14,7 +14,7 @@ A simple HTML website showcasing our project
 ## Getting Started
 
 1. Clone the respository
-2. Open 'index.html' in your browser
+2. Open "index.html" in your browser
 
 ## Structure
 
